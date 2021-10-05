@@ -1,9 +1,9 @@
 ## Modulo 1
-- [ ] Pessoa (Abstrata, nome, saldoCred, saldoDeb, carteira)
-- [ ] Estudante (curso, Período, faculdade, matricula)
-- [ ] Professor (Cadeiras que ensina, matricula)
-- [ ] Bibliotecario (matricula, Gerente, Faculdade)
-- [ ] Gerente (Faculdade, ResponsávelPor(Lista de funcionários))
+- [x] Pessoa (Abstrata, nome, saldoCred, saldoDeb, carteira)
+- [x] Estudante (curso, Período, faculdade, matricula)
+- [x] Professor (Cadeiras que ensina, matricula)
+- [x] Bibliotecario (matricula, Gerente, Faculdade)
+- [x] Gerente (Faculdade, ResponsávelPor(Lista de funcionários))
 
 ## Modulo 2
 - [ ] Emprestimo (Pessoa, Biblioteca, Valor, Lista livros)
