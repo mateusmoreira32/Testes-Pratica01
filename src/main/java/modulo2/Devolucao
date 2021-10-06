@@ -1,0 +1,32 @@
+package modulo2;
+import modulo1.Pessoa;
+
+public class Devolucao {
+
+    private Pagamento pagamento;
+    private Emprestimo emprestimo;
+
+    public Devolucao() {
+    }
+
+    public Devolucao(Pagamento pagamento, Emprestimo emprestimo) {
+        this.pagamento = pagamento;
+        this.emprestimo = emprestimo;
+    }
+
+    public Pagamento getPagamento() {
+        return pagamento;
+    }
+
+    public void setPagamento(Pagamento pagamento) {
+        this.pagamento = pagamento;
+    }
+
+    public Emprestimo getEmprestimo() {
+        return emprestimo;
+    }
+
+    public void setEmprestimo(Emprestimo emprestimo) {
+        this.emprestimo = emprestimo;
+    }
+}
