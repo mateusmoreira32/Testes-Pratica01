@@ -7,5 +7,5 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({BibliotecaTest.class, FaculdadeTest.class, ListaBibliotecaTest.class, ListaFaculdadeTest.class, PagamentoTest.class})
 @DisplayName("Test suite do modulo 3")
-public class suiteModulo3 {
+public class SuiteModulo3 {
 }
